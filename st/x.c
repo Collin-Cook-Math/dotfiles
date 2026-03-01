@@ -243,7 +243,7 @@ static int frccap = 0;
 static char *usedfont = NULL;
 static double usedfontsize = 0;
 static double defaultfontsize = 0;
-static float alpha = 0.7;
+static float alpha = 1;
 
 static char *opt_class = NULL;
 static char **opt_cmd  = NULL;

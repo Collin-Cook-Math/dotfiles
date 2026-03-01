@@ -1,8 +1,8 @@
 # layout and style
 bottom_bar          : false
 height              : 25
-vertical_padding    : 4 
-horizontal_padding  : 30
+vertical_padding    : 10 
+horizontal_padding  : 10
 text_padding        : 0
 border              : true
 border_width        : 2
