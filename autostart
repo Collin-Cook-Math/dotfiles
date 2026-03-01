@@ -1,0 +1,7 @@
+#!/bin/sh
+
+xrandr --output Virtual-1 --mode 1680x1050 --rate 59.95
+
+sxbar &
+xcompmgr &
+feh --bg-scale /home/collin/walls/dune.png
